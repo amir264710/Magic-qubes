@@ -1,1 +1,1 @@
-# Magic-qubes
+# Magic-cubes
